@@ -44,7 +44,7 @@ Follow these steps to run the project on your system:
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/shivampoojanyadav/todo.git
 
 # Navigate into the project folder
 cd ToDo
